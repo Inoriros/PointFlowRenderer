@@ -1,0 +1,9 @@
+# ignore generated images
+/iICP_vis*
+
+# ignore generated tmp files
+*.pcd
+*.zip
+*.png
+*.xml
+*.exr
